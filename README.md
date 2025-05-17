@@ -24,8 +24,7 @@ Este repositório contém um agente de inteligência artificial desenvolvido par
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
-    cd [nome do seu repositório]
+    git clone https://github.com/dattavisionoficial/agente_ia_otimizador_sql.git
     ```
 
 2.  **Instale as dependências:**
